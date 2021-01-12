@@ -256,7 +256,7 @@ $(function() {
 	c.load("<div class='comment writecode'>&nbsp;*");
 	c.load("<div class='comment writecode'>&nbsp;*如果你想和我联系</div>");
 	c.load("<div class='comment writecode'>&nbsp;*QQ:327209194</div>");
-	c.load("<div class='comment writecode'>&nbsp;*mobile:xxx</div>");
+	c.load("<div class='comment writecode'>&nbsp;*mobile:13611847679</div>");
 	c.load("<div class='comment writecode'>&nbsp;*最后非常感谢您愿意花3分钟看完我的简历！</div>");
 	c.load("<div class='comment writecode'>&nbsp;*/</div></p>");
 

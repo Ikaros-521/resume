@@ -184,8 +184,11 @@ $(function() {
 	w.load("</ul>");
 	w.load("<h1 class='writecode'>项目</h1>");
 	w.load("<ul>");
-	w.load("<li class='writecode'><a href='https://github.com/Ikaros-521/Learning-Notes' target='_blank'>Learning-Notes</a></li>");
-	w.load("<li class='writecode'><a href='https://github.com/Ikaros-521/Wives' target='_blank'>Wives</a></li>");
+	w.load("<li class='writecode'><a href='https://github.com/Ikaros-521/Learning-Notes' target='_blank'>https://github.com/Ikaros-521/Learning-Notes</a></li>");
+	w.load("<li class='writecode'><a href='http://www.youlunshidai.com' target='_blank'>www.youlunshidai.com</a></li>");
+	w.load("<li class='writecode'><a href='http://wap.huiyoulun.com' target='_blank'>wap.huiyoulun.com</a></li>");
+	w.load("<li class='writecode'><a href='http://www.4000191177.com' target='_blank'>www.4000191177.com</a></li>");
+	w.load("<li class='writecode'><a href='http://jianianhua.youlunshidai.com/' target='_blank'>jianianhua.youlunshidai.com</a></li>");
 	w.load("</ul>");
 	c.load("<p><div class='comment writecode'>/**</div>");
 	c.load("<div class='comment writecode'>&nbsp;*左面的简历看起来不是太令人满意，让我们先给他来点动态渲染</div>");
@@ -255,8 +258,8 @@ $(function() {
 	c.load("<div class='comment writecode'>&nbsp;*这样基本上就差不多了</div>");
 	c.load("<div class='comment writecode'>&nbsp;*");
 	c.load("<div class='comment writecode'>&nbsp;*如果你想和我联系</div>");
-	c.load("<div class='comment writecode'>&nbsp;*QQ:327209194</div>");
-	c.load("<div class='comment writecode'>&nbsp;*mobile:xxx</div>");
+	c.load("<div class='comment writecode'>&nbsp;*QQ/微信:114413511</div>");
+	c.load("<div class='comment writecode'>&nbsp;*mobile:13611847679</div>");
 	c.load("<div class='comment writecode'>&nbsp;*最后非常感谢您愿意花3分钟看完我的简历！</div>");
 	c.load("<div class='comment writecode'>&nbsp;*/</div></p>");
 
